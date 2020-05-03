@@ -15,3 +15,4 @@ A list of links of useful learning resources
 ### networking
 - **How to setup a VPN server using WireGuard (with NAT and IPv6) :** [link](https://angristan.xyz/2019/01/how-to-setup-vpn-server-wireguard-nat-ipv6/)
 - **A Deep Dive into Iptables and Netfilter Architecture :** [link](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)
+- **A Quick Introduction to Linux Policy Routing :** [link](https://blog.scottlowe.org/2013/05/29/a-quick-introduction-to-linux-policy-routing/)
