@@ -11,6 +11,9 @@ A list of links of useful learning resources
 - **LPC2018 - WireGuard: Next-Generation Secure Kernel Network Tunnel :** [link](https://youtu.be/CejbCQ5wS7Q)
 - **Cilium: Network and Application Security with BPF and XDP :** [link](https://youtu.be/ilKlmTDdFgk)
 
+### cloud
+- **Kubernetes: Changing the Way That we Think and Talk About Computing :** [link](https://youtu.be/DGlQgNmobuc)
+
 ## articles
 ### networking
 - **How to setup a VPN server using WireGuard (with NAT and IPv6) :** [link](https://angristan.xyz/2019/01/how-to-setup-vpn-server-wireguard-nat-ipv6/)
