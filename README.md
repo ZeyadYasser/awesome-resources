@@ -20,6 +20,7 @@ A list of links of useful learning resources
 - **A Deep Dive into Iptables and Netfilter Architecture :** [link](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)
 - **A Quick Introduction to Linux Policy Routing :** [link](https://blog.scottlowe.org/2013/05/29/a-quick-introduction-to-linux-policy-routing/)
 - **Task-centered iproute2 user guide:** [link](https://www.baturin.org/docs/iproute2)
+- **BPF and XDP Reference Guide :** [link](https://docs.cilium.io/en/v1.8/bpf/)
 ### webdev
 - **Best Practices for Designing a Pragmatic RESTful API :** [link](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
