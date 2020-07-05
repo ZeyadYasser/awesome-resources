@@ -27,6 +27,7 @@ A list of links of useful learning resources
 
 ### linux
 - **An introduction to KProbes :** [link](https://lwn.net/Articles/132196/)
+- **Kernel Recipes 2019 - ftrace: Where modifying a running kernel all started :** [link](https://youtu.be/93uE_kWWQjs)
 
 ## gists
 ### networking
