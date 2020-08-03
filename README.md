@@ -21,7 +21,8 @@ A list of links of useful learning resources
 - **A Quick Introduction to Linux Policy Routing :** [link](https://blog.scottlowe.org/2013/05/29/a-quick-introduction-to-linux-policy-routing/)
 - **Task-centered iproute2 user guide:** [link](https://www.baturin.org/docs/iproute2)
 - **BPF and XDP Reference Guide :** [link](https://docs.cilium.io/en/v1.8/bpf/)
-
+- **Turning IPTables into a TCP load balancer
+for fun and profit :** [link](https://scalingo.com/blog/iptables)
 ### webdev
 - **Best Practices for Designing a Pragmatic RESTful API :** [link](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
