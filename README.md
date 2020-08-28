@@ -10,7 +10,8 @@ A list of links of useful learning resources
 - **Container Networking From Scratch - Kristen Jacobs, Oracle :** [link](https://youtu.be/6v_BDHIgOY8)
 - **LPC2018 - WireGuard: Next-Generation Secure Kernel Network Tunnel :** [link](https://youtu.be/CejbCQ5wS7Q)
 - **Cilium: Network and Application Security with BPF and XDP :** [link](https://youtu.be/ilKlmTDdFgk)
-- **Kubernetes Networking: How to Write a CNI Plugin From Scratch - Eran Yanay :** [link](https://youtu.be/zmYxdtFzK6s)
+- **Kubernetes Networking: How to Write a CNI Plugin From Scratch :** [link](https://youtu.be/zmYxdtFzK6s)
+- **Introduction to CNI, the Container Network Interface Project :** [link](https://youtu.be/YjjrQiJOyME)
 
 ### cloud
 - **Kubernetes: Changing the Way That we Think and Talk About Computing :** [link](https://youtu.be/DGlQgNmobuc)
