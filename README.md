@@ -27,6 +27,7 @@ A list of links of useful learning resources
 for fun and profit :** [link](https://scalingo.com/blog/iptables)
 ### webdev
 - **Best Practices for Designing a Pragmatic RESTful API :** [link](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- **Understanding tc “direct action” mode for BPF :** [link](https://qmonnet.github.io/whirl-offload/2020/04/11/tc-bpf-direct-action/)
 
 ### linux
 - **An introduction to KProbes :** [link](https://lwn.net/Articles/132196/)
