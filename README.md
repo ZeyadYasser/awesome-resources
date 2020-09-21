@@ -32,6 +32,7 @@ for fun and profit :** [link](https://scalingo.com/blog/iptables)
 ### linux
 - **An introduction to KProbes :** [link](https://lwn.net/Articles/132196/)
 - **Kernel Recipes 2019 - ftrace: Where modifying a running kernel all started :** [link](https://youtu.be/93uE_kWWQjs)
+- **Understanding PAM :** [link](https://www.aplawrence.com/Basics/understandingpam.html)
 
 ## gists
 ### networking
