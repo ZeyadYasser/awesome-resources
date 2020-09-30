@@ -35,6 +35,7 @@ for fun and profit :** [link](https://scalingo.com/blog/iptables)
 - **Understanding PAM :** [link](https://www.aplawrence.com/Basics/understandingpam.html)
 - **Shell scritping getopts tutorial :** [link](https://wiki.bash-hackers.org/howto/getopts_tutorial)
 - **How io_uring and eBPF Will Revolutionize Programming in Linux :** [link](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+- **Accessing PCI devices from userspace :** [link](https://github.com/rumpkernel/wiki/wiki/Howto:-Accessing-PCI-devices-from-userspace)
 
 ## gists
 ### networking
