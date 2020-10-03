@@ -36,6 +36,7 @@ for fun and profit :** [link](https://scalingo.com/blog/iptables)
 - **Shell scritping getopts tutorial :** [link](https://wiki.bash-hackers.org/howto/getopts_tutorial)
 - **How io_uring and eBPF Will Revolutionize Programming in Linux :** [link](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 - **Accessing PCI devices from userspace :** [link](https://github.com/rumpkernel/wiki/wiki/Howto:-Accessing-PCI-devices-from-userspace)
+- **Dynamic linker tricks - Using LD_PRELOAD to cheat, inject features and investigate programs :** [link](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
 
 ## gists
 ### networking
